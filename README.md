@@ -37,3 +37,20 @@ To set up this project locally, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Ayoub-lah/portfolio.git
+## Usage
+Feel free to explore the website to learn more about my skills and projects. You can also use this project as a template for your own portfolio website.
+
+## Contributing
+Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+If you have any questions or would like to get in touch, feel free to reach out:
+
+Email: lhlaibiayoub.com
+
+LinkedIn: Ayoub Lahlaibi
+
+GitHub: Ayoub-lah
